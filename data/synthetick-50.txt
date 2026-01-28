@@ -1,0 +1,307 @@
+=== EXAMPLE 1 (Aluminum - from paper) ===
+In 1886, a young chemist named Charles Martin Hall
+discovered a revolutionary process for producing
+what had previously been one of the most precious
+metals on Earth. His method, which involved
+passing an electrical current through a solution
+of alumina dissolved in molten cryolite, would
+transform an element once more valuable than gold
+into something so commonplace it would eventually
+wrap our leftover food. The metal he learned to
+produce so cheaply was called
+
+=== EXAMPLE 2 - NEWLINE EXPECTED ===
+The quick brown fox jumps over the lazy dog. This
+sentence is a famous pangram used to test fonts
+and keyboards. It contains every letter of the
+alphabet at least once which makes it useful for
+many different applications in typography and
+design work. Teachers often use it for students
+learning to type on a keyboard or practicing
+their handwriting skills. The sentence is also
+used to test printers and display all characters
+correctly. It has been popular since the late
+
+=== EXAMPLE 3 - NEWLINE EXPECTED ===
+Water covers most of our planet and is vital for
+all life. Humans need to drink water every day to
+survive and stay healthy. The ocean contains most
+of the water on Earth but it is too salty to
+drink. Fresh water comes from rivers and lakes
+and underground sources. Many people do not have
+access to clean drinking water which causes many
+health problems in developing countries around
+the world. Scientists are working on new ways to
+convert salt water into fresh water for drinking
+
+=== EXAMPLE 4 - NEWLINE EXPECTED ===
+Coffee is one of the most popular drinks in the
+world. Millions of people start their day with a
+cup of hot coffee. The beans come from tropical
+countries near the equator. Roasting the beans
+brings out their flavor and aroma. Some people
+prefer light roasts while others like dark
+roasts. The caffeine in coffee helps people feel
+more alert and focused. Coffee shops have become
+popular places to meet friends or work on laptop
+computers. The global coffee industry is worth
+
+=== EXAMPLE 5 - NEWLINE EXPECTED ===
+The brain is the most complex organ in the human
+body. It controls everything we do from breathing
+to thinking to feeling emotions. Scientists still
+do not fully understand how the brain works.
+Neurons send signals to each other through tiny
+gaps called synapses. The brain uses a lot of
+energy compared to its small size. Sleep is very
+important for brain health because it allows the
+brain to clean out waste and form new memories.
+Damage to the brain can cause serious problems
+
+=== EXAMPLE 6 - NEWLINE EXPECTED ===
+Dogs have been human companions for thousands of
+years. They were the first animals to be tamed by
+people. Dogs are loyal and can be trained to do
+many tasks. Some dogs help blind people navigate
+the world. Other dogs work with police to find
+drugs or missing people. Many families keep dogs
+as pets because they provide love and friendship.
+Dogs need exercise and attention to stay happy
+and healthy. Different breeds have very different
+sizes and personalities ranging from tiny to
+
+=== EXAMPLE 7 - NEWLINE EXPECTED ===
+The sun is a star at the center of our solar
+system. It provides light and heat that makes
+life on Earth possible. Without the sun plants
+could not grow and the planet would freeze. The
+sun is about ninety three million miles away
+from Earth. Light from the sun takes about eight
+minutes to reach us. The sun is mostly made of
+hydrogen gas that undergoes nuclear fusion. This
+process releases enormous amounts of energy that
+radiates outward in all directions continuously
+
+
+=== CONTINUATION EXPECTED EXAMPLES ===
+(Line has room, next word will fit)
+
+=== EXAMPLE 8 - CONTINUE EXPECTED ===
+The moon orbits around the Earth once every
+twenty seven days. It is the only natural
+satellite of our planet. The moon has no air or
+water on its surface. Astronauts first walked on
+the moon in nineteen sixty nine. The moon affects
+the tides in our oceans through its gravity. We
+always see the same side of the moon from Earth.
+The far side was a mystery until spacecraft flew
+around to photograph it. The moon is slowly
+moving away from Earth by about one inch per
+
+=== EXAMPLE 9 - CONTINUE EXPECTED ===
+Cats are popular pets around the world. They are
+independent animals that can take care of
+themselves. Cats sleep for many hours each day.
+They are natural hunters and like to chase small
+animals and toys. Cats purr when they are happy
+or content. Some cats are friendly while others
+prefer to be alone. Cats have been pets for
+thousands of years. Ancient Egyptians considered
+cats to be sacred animals. Today millions of
+people share their homes with pet cats who
+
+=== EXAMPLE 10 - CONTINUE EXPECTED ===
+Rain falls when water vapor in clouds condenses
+into droplets. These droplets grow heavy and fall
+to the ground. Rain is essential for plants and
+animals to survive. Too much rain can cause
+floods. Too little rain leads to drought. The
+water cycle moves water from the oceans to the
+sky and back again. Different parts of the world
+get different amounts of rain each year. Deserts
+get very little rain while tropical forests get
+rain almost every day of the year for many
+
+=== EXAMPLE 11 - CONTINUE EXPECTED ===
+Books have been important for spreading knowledge
+for centuries. Before printing people copied
+books by hand. This made books very expensive and
+rare. The printing press changed everything.
+Books became cheap and available to ordinary
+people. Reading books can teach us new things and
+take us to imaginary worlds. Libraries let people
+borrow books for free. Today many people read
+electronic books on tablets and phones. But many
+readers still prefer the feel of paper in
+
+=== EXAMPLE 12 - CONTINUE EXPECTED ===
+Trees provide oxygen and clean the air we
+breathe. They also give shade and shelter to many
+animals. Wood from trees is used to build houses
+and make furniture. Some trees produce fruit that
+people eat. Forests cover large parts of the
+Earth. Cutting down too many trees harms the
+environment. Many groups work to plant new trees.
+A single tree can live for hundreds of years.
+The oldest trees in the world are thousands of
+years old and still alive and growing in
+
+=== EXAMPLE 13 - CONTINUE EXPECTED ===
+Music is found in every human culture. People
+make music to express emotions and celebrate
+events. Instruments come in many forms from drums
+to guitars to pianos. Singing is the oldest form
+of music. Children learn songs from their parents
+and teachers. Music can make people feel happy or
+sad. Scientists study how music affects the
+brain. Learning to play an instrument takes
+practice but can be very rewarding for people
+who enjoy it and want to create their own
+
+=== EXAMPLE 14 - CONTINUE EXPECTED ===
+The ocean is vast and mostly unexplored. It
+contains millions of species of plants and
+animals. Fish are the most common ocean animals.
+Whales and dolphins are mammals that live in the
+sea. The deepest parts of the ocean are dark and
+cold. Strange creatures live in these depths.
+Ships travel across oceans carrying goods between
+countries. People have always been fascinated by
+the sea. Sailors in the past feared sea monsters.
+Now we know what really lives in the deep
+
+=== EXAMPLE 15 - CONTINUE EXPECTED ===
+Bread is one of the oldest prepared foods. People
+have been baking bread for thousands of years.
+The basic ingredients are flour water and yeast.
+Yeast makes the dough rise and become fluffy.
+Different cultures make different types of bread.
+Some bread is flat while other bread is tall and
+soft. Bread provides energy from carbohydrates.
+Many people eat bread every day with their meals.
+The smell of fresh bread baking is loved by
+people all over the world who find it very
+
+=== EXAMPLE 16 - CONTINUE EXPECTED ===
+Birds can fly because they have light bones and
+strong wings. Feathers help birds stay warm and
+control their flight. Some birds migrate long
+distances each year. Others stay in one place all
+year round. Birds build nests to lay their eggs.
+Baby birds need care from their parents. Some
+birds can learn to mimic human speech. Eagles and
+hawks hunt other animals for food. Penguins are
+birds that cannot fly but swim very well in
+cold ocean waters where they catch fish to
+
+=== EXAMPLE 17 - CONTINUE EXPECTED ===
+Computers have changed how we live and work.
+They can process information much faster than
+humans. The first computers were huge machines
+that filled entire rooms. Now computers fit in
+our pockets. We use computers to communicate with
+people around the world. The internet connects
+millions of computers together. Software tells
+computers what to do. Programming is the skill
+of writing software. Many jobs today require
+basic computer skills that most people can
+
+
+=== MIXED/BORDERLINE EXAMPLES ===
+(These are closer to the boundary - useful for testing)
+
+=== EXAMPLE 18 - BORDERLINE (42 chars, word "testing" = 7) ===
+Scientists conduct experiments to test their
+ideas about how the world works. They observe
+nature and ask questions. Then they form a
+hypothesis to explain what they see. Experiments
+help prove if the hypothesis is correct. Good
+experiments can be repeated by other scientists.
+This process is called the scientific method. It
+has led to many important discoveries. Medicine
+and technology depend on scientific research.
+New findings are shared through academic
+
+=== EXAMPLE 19 - BORDERLINE (44 chars, word "growth" = 6) ===
+Plants need sunlight water and nutrients from
+the soil to grow. Leaves capture energy from
+the sun through photosynthesis. Roots absorb
+water and minerals from the ground. Stems hold
+the plant up and transport materials. Flowers
+help plants reproduce by making seeds. Some
+plants grow very fast while others grow slowly.
+Gardens need regular care to help plants thrive.
+Farmers grow crops to feed people around the
+world. Agriculture is essential for human
+
+=== EXAMPLE 20 - BORDERLINE (43 chars, word "simple" = 6) ===
+Math is the study of numbers and patterns. We
+use math every day without thinking about it.
+Adding and subtracting are basic operations.
+Multiplication and division come next. Geometry
+deals with shapes and spaces. Algebra uses
+letters to represent unknown numbers. Calculus
+studies change and motion. Statistics helps us
+understand data. Math is used in science and
+engineering. Many students find math hard but
+it becomes easier with practice and with
+
+=== EXAMPLE 21 - BORDERLINE (45 chars, word "ancient" = 7) ===
+History teaches us about the past. We learn
+from the successes and failures of those who
+came before us. Historians study old documents
+and artifacts. Archaeology digs up remains of
+past civilizations. Every culture has its own
+history and traditions. Wars and revolutions
+have shaped the modern world. Technology has
+changed how people live over time. Understanding
+history helps us make better decisions today.
+Many lessons from history remain relevant to
+
+=== EXAMPLE 22 - NEWLINE EXPECTED ===
+Rivers flow from high ground to low ground and
+eventually reach the sea. They carry water and
+sediment across the land. Rivers provide water
+for drinking and farming. Many cities were built
+along rivers for transportation and trade. Fish
+and other animals live in rivers. Dams are built
+across rivers to generate electricity. Pollution
+can harm river ecosystems. Keeping rivers clean
+is important for human health and wildlife that
+depends on fresh water for their survival and
+
+=== EXAMPLE 23 - CONTINUE EXPECTED ===
+Mountains are formed when the Earth's crust
+pushes together over millions of years. The
+highest mountains have snow on top all year.
+Climbing mountains can be dangerous but exciting.
+Many people hike in the mountains for exercise
+and enjoyment. Mountain ranges affect weather
+patterns. Rain falls on one side while the other
+side stays dry. Animals that live in mountains
+must adapt to cold temperatures and thin air at
+high altitudes where oxygen is less and
+
+=== EXAMPLE 24 - NEWLINE EXPECTED ===
+Ice cream is a popular frozen dessert enjoyed
+around the world. It is made from milk cream and
+sugar. Different flavors come from adding fruits
+or chocolate or vanilla. Ice cream must be kept
+frozen or it will melt. On hot summer days many
+people enjoy eating ice cream to cool down. Ice
+cream shops offer many flavors and toppings.
+Some people make ice cream at home with special
+machines. The first ice cream was made hundreds
+of years ago for royalty and wealthy individuals
+
+=== EXAMPLE 25 - CONTINUE EXPECTED ===
+Sleep is necessary for good health. During sleep
+the body repairs itself and the brain processes
+memories. Most adults need about eight hours of
+sleep each night. Children need even more sleep
+than adults. Not getting enough sleep can cause
+problems with thinking and mood. Good sleep
+habits include going to bed at the same time
+each night. Avoiding screens before bed helps
+people fall asleep faster. A dark quiet room is
+best for sleeping well and feeling rested in

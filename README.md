@@ -1,4 +1,4 @@
-# manifold-vis
+# feature-manifolds
 
 Simulation and visualization of N particles on an $(n-1)$-sphere evolving under attraction/repulsion dynamics, with dimensionality reduction analysis.
 
