@@ -83,9 +83,6 @@ process releases enormous amounts of energy that
 radiates outward in all directions continuously
 
 
-=== CONTINUATION EXPECTED EXAMPLES ===
-(Line has room, next word will fit)
-
 === EXAMPLE 8 - CONTINUE EXPECTED ===
 The moon orbits around the Earth once every
 twenty seven days. It is the only natural
@@ -207,9 +204,6 @@ of writing software. Many jobs today require
 basic computer skills that most people can
 
 
-=== MIXED/BORDERLINE EXAMPLES ===
-(These are closer to the boundary - useful for testing)
-
 === EXAMPLE 18 - BORDERLINE (42 chars, word "testing" = 7) ===
 Scientists conduct experiments to test their
 ideas about how the world works. They observe
@@ -305,3 +299,123 @@ habits include going to bed at the same time
 each night. Avoiding screens before bed helps
 people fall asleep faster. A dark quiet room is
 best for sleeping well and feeling rested in
+
+=== EXAMPLE 26 - NEWLINE EXPECTED ===
+Electricity powers our modern world. It flows
+through wires to light our homes and run our
+machines. Power plants generate electricity by
+spinning turbines. Some plants burn coal or gas.
+Others use nuclear reactions or flowing water.
+Solar panels convert sunlight into electricity.
+Wind turbines capture energy from moving air.
+Saving electricity helps the environment. Many
+people are switching to renewable energy sources
+that produce less pollution than traditional
+
+=== EXAMPLE 27 - CONTINUE EXPECTED ===
+Language allows humans to communicate complex
+ideas. Every culture has developed its own
+language over thousands of years. Children
+learn to speak by listening to adults around
+them. Writing was invented to record language.
+Books preserve knowledge across generations.
+Learning a second language opens new doors and
+opportunities. Translators help people who
+speak different languages understand each
+other well and share ideas across
+
+=== EXAMPLE 28 - NEWLINE EXPECTED ===
+The stars we see at night are distant suns.
+Some are much bigger and brighter than our sun.
+The closest star to Earth is over four light
+years away. Galaxies contain billions of stars.
+Our galaxy is called the Milky Way. Astronomers
+use telescopes to study stars and planets.
+Space probes have explored our solar system.
+Humans have walked on the moon and may one day
+visit Mars. The universe is vast and full of
+mysteries waiting to be discovered by careful
+
+=== EXAMPLE 29 - CONTINUE EXPECTED ===
+Exercise keeps our bodies strong and healthy.
+Walking running and swimming are good forms of
+exercise. Playing sports teaches teamwork and
+discipline. Stretching helps prevent injuries.
+Regular exercise improves mood and reduces
+stress. It also helps maintain a healthy weight.
+Doctors recommend at least thirty minutes of
+activity each day. Even small amounts of movement
+are better than sitting all day. Finding an
+activity you enjoy makes exercise more
+
+=== EXAMPLE 30 - NEWLINE EXPECTED ===
+Art has been part of human culture for thousands
+of years. Cave paintings show that early humans
+created art. Sculpture painting and music are
+all forms of artistic expression. Art can tell
+stories and preserve history. Museums display
+great works from around the world. Artists use
+many different materials and techniques. Some
+art is realistic while other art is abstract.
+Beauty is subjective and art means different
+things to different people who experience it
+
+=== EXAMPLE 31 - CONTINUE EXPECTED ===
+Honey is made by bees from flower nectar. Bees
+visit many flowers to collect the sweet liquid.
+They bring it back to their hive where it is
+stored in wax cells. The bees fan it with their
+wings to remove water. This process takes time.
+Honey never spoils if stored properly. Ancient
+Egyptians used honey as medicine and to preserve
+food. Today we use honey as a natural sweetener.
+Beekeepers harvest honey without harming the
+bees by using special methods and
+
+=== EXAMPLE 32 - NEWLINE EXPECTED ===
+Volcanoes form when hot rock rises from deep
+inside the Earth. The molten rock is called
+magma. When it reaches the surface it becomes
+lava. Volcanic eruptions can be very dangerous.
+They destroy everything in their path. Ash can
+travel for hundreds of miles in the air. But
+volcanoes also create new land over time. The
+soil near volcanoes is very fertile for farming.
+Many people live near volcanoes because of this
+rich soil that helps crops grow very quickly
+
+=== EXAMPLE 33 - CONTINUE EXPECTED ===
+Chocolate comes from cacao beans that grow in
+tropical regions near the equator. The beans
+are fermented dried and roasted. Then they are
+ground into a paste. Sugar and milk are added
+to make the chocolate we eat. Dark chocolate
+has less sugar than milk chocolate. White
+chocolate contains no cacao solids at all.
+Chocolate was once used as currency by ancient
+peoples. Today it is enjoyed as a treat by
+millions of people all around the
+
+=== EXAMPLE 34 - NEWLINE EXPECTED ===
+Bridges connect places that are separated by
+water or valleys. The oldest bridges were made
+of wood or stone. Modern bridges use steel and
+concrete. Suspension bridges hang from cables.
+Some bridges can be raised to let ships pass.
+Building a bridge requires careful planning.
+Engineers must consider the weight it will hold.
+Weather and earthquakes can damage bridges over
+time. The longest bridges in the world span
+several miles across wide bodies of deep water
+
+=== EXAMPLE 35 - CONTINUE EXPECTED ===
+Paper was invented in ancient China thousands
+of years ago. It is made from plant fibers that
+are mixed with water. The wet pulp is pressed
+and dried into thin sheets. For centuries paper
+was rare and expensive to produce. The printing
+press made books available to ordinary people.
+Today we use paper for writing and packaging.
+Many people try to recycle paper to save trees.
+Digital technology is reducing our need for
+paper but we still use it every
