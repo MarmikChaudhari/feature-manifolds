@@ -1,0 +1,36 @@
+# Model
+model_id: google/gemma-3-1b-pt
+sae_layer: 4  # 0-indexed transformer block; extracts hidden_states[sae_layer + 1]
+
+# Data
+data_dir: data
+k_values: [20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100]
+
+# Output
+fig_dir: figures/gemma3-1b-pt/feat-manifold
+cache_dir: cache/gemma3-1b-pt
+
+# Encoder type: "transcoder" (sae-lens) or "clt" (Gemma Scope 2 CLT)
+sae_type: clt
+
+# Transcoder config (sae-lens) — used when sae_type=transcoder
+# https://huggingface.co/google/gemma-scope-2-1b-pt
+# Releases: resid_post, transcoder, clt, resid_post_all, transcoder_all, mlp_out, attn_out
+# SAE IDs:  layer_{L}_width_{16k|64k|256k|1m}_l0_{small|medium|large}
+sae_release: gemma-scope-2-1b-pt-transcoders-all
+sae_id: layer_4_width_16k_l0_small
+
+# CLT config — used when sae_type=clt
+# Cross-layer transcoder: encodes at one layer, decodes across all layers
+# Available: width_262k_l0_{medium|big}, width_524k_l0_{medium|big}
+# Per-layer features: 262k→10080/layer, 524k→20160/layer
+clt_repo: google/gemma-scope-2-1b-pt
+clt_id: width_524k_l0_medium
+
+# Feature selection
+n_features: 20
+selection_method: tuning  # tuning (peak/mean selectivity) | variance
+active_threshold: 0.1     # fraction of per-feature max for "active" counting
+
+# PCA
+n_pca_components: 6
